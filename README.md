@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **iwu3kg6gl@mozmail.com**
+- 📫 How to reach me **personal.satrio@protonmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
